@@ -1,7 +1,7 @@
 from openai import AzureOpenAI
 
 api_base = 'https://deepaklabs.openai.azure.com/'
-api_key= '1dbfa09c501745538a844b4c35aad652'
+api_key= ''
 deployment_name = 'gpt-4'
 api_version = '2023-12-01-preview' # this might change in the future
 
