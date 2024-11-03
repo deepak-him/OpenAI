@@ -23,9 +23,9 @@ import os
 from openai import AzureOpenAI
 
 client = AzureOpenAI(
-  api_key =  '1dbfa09c501745538a844b4c35aad652',  
+  api_key =  '21a714634f1ab0e924eb4b1600',  
   api_version = "2024-02-01",
-  azure_endpoint = 'https://deepaklabs.openai.azure.com/'
+  azure_endpoint = 'https://mvimal-openai-eastus.openai.azure.com/'
 )
 
 conversation=[{"role": "system", "content": "You are a helpful assistant."}]

@@ -6,7 +6,7 @@ from sentence_transformers import SentenceTransformer
 import torch
 
 # Download necessary NLTK data
-# nltk.download('punkt')
+nltk.download('punkt_tab')
 
 # Define text
 text = """  

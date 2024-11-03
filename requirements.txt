@@ -1,0 +1,13 @@
+openai
+transformers
+torch
+sentence-transformers
+langchain
+nltk
+spacy
+FastAPI
+uvicorn
+numpy
+pandas
+scikit-learn
+tiktoken
